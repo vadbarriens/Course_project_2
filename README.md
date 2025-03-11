@@ -32,7 +32,7 @@
 Введите ключевые слова для фильтрации (например, "Django Flask").
 
 ### Структура проекта.
-Course_project_2/
+`Course_project_2/
 ├── src/                     # Пакет с основным кодом приложения
 │   ├── hh_api.py            # Класс для работы с API HeadHunter
 │   ├── json_saver.py        # Класс для работы с JSON-файлами
@@ -43,7 +43,7 @@ Course_project_2/
 │   ├── test_vacancy.py      # Тесты для класса Vacancy
 ├── main.py                  # Основной скрипт для запуска приложения
 ├── requirements.txt         # Зависимости
-├── README.md                # Документация
+├── README.md                # Документация`
 Тестирование
 
 ### Лицензия.

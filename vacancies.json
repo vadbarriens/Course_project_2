@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Junior Python Developer",
+        "url": "https://hh.ru/vacancy/110412718",
+        "salary": 75000,
+        "description": "Базовые знания <highlighttext>Python</highlighttext>. Опыт написания REST приложений на любом <highlighttext>Python</highlighttext> фреймворке (Flask, FastAPI, Django и др.). Понимание основ SQL и..."
+    },
+    {
+        "name": "Junior Python-разработчик",
+        "url": "https://hh.ru/vacancy/117913081",
+        "salary": 70000,
+        "description": "Уверенное владение <highlighttext>Python</highlighttext> 3. Опыт работы с веб-фреймворками: знание Django/Flask, FastAPI. Опыт работы с базами данных. "
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/118195582",
+        "salary": 0,
+        "description": "умение переложить конечную бизнес-задачу на технический язык. — уверенное знание <highlighttext>Python</highlighttext>, Django, ORM, REST Framework, Celery, UnitTest, Docker, OpenAPI. — "
+    },
+    {
+        "name": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/118200304",
+        "salary": 0,
+        "description": "Опыт работы с API маркетплейсов от 1 года. Стек проекта (Django, Django REST Framework, PostgreSQL, Celery, Redis, Docker. Git, async."
+    },
+    {
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/118157917",
+        "salary": 0,
+        "description": "Уверенное знание основ <highlighttext>Python</highlighttext>. Навыки работы с Django, понимание шаблона проектирования MVC, плюсом будет навыки работы с FastAPI. "
+    }
+]
